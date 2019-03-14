@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515089246 source:d:\users\m\desktop\j.softwares\programming\hangman_game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstring>
+
