@@ -1,5 +1,5 @@
-# Projectaire
-Projectaire is the collection of classic C++ projects developed by me on the Code Blocks Ide.
+# Projectaire_Cpp
+Projectaire_Cpp is the collection of classic C++ projects developed by me on the Code Blocks Ide.
 
 The projects in this repository includes -
 
